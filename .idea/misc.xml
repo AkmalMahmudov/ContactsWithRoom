@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mahmudov/Desktop/ContactsWithRoom/app/src/main/res/drawable/bg_sign_up.xml" value="0.19722222222222222" />
+        <entry key="..\:/Users/Mahmudov/Desktop/ContactsWithRoom/app/src/main/res/drawable/ic_more_vert_black_24dp.xml" value="0.1046875" />
+        <entry key="..\:/Users/Mahmudov/Desktop/ContactsWithRoom/app/src/main/res/drawable/ic_person_circle.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Mahmudov/Desktop/ContactsWithRoom/app/src/main/res/font/.xml" value="0.19722222222222222" />
+        <entry key="..\:/Users/Mahmudov/Desktop/ContactsWithRoom/app/src/main/res/layout/activity_main2.xml" value="0.15462962962962962" />
+        <entry key="..\:/Users/Mahmudov/Desktop/ContactsWithRoom/app/src/main/res/layout/activity_registration.xml" value="0.1921875" />
+        <entry key="..\:/Users/Mahmudov/Desktop/ContactsWithRoom/app/src/main/res/layout/dialog_cont.xml" value="0.1921875" />
+        <entry key="..\:/Users/Mahmudov/Desktop/ContactsWithRoom/app/src/main/res/layout/dialog_user.xml" value="0.1921875" />
+        <entry key="..\:/Users/Mahmudov/Desktop/ContactsWithRoom/app/src/main/res/layout/item_contact.xml" value="0.1921875" />
+        <entry key="..\:/Users/Mahmudov/Desktop/ContactsWithRoom/app/src/main/res/layout/item_dialog.xml" value="0.22" />
+        <entry key="..\:/Users/Mahmudov/Desktop/ContactsWithRoom/app/src/main/res/layout/item_todo.xml" value="0.75" />
+        <entry key="..\:/Users/Mahmudov/Desktop/ContactsWithRoom/app/src/main/res/layout/item_user.xml" value="0.1921875" />
+        <entry key="..\:/Users/Mahmudov/Desktop/ContactsWithRoom/app/src/main/res/layout/login_fragment.xml" value="0.1921875" />
+        <entry key="..\:/Users/Mahmudov/Desktop/ContactsWithRoom/app/src/main/res/layout/screen_login.xml" value="0.1921875" />
+        <entry key="..\:/Users/Mahmudov/Desktop/ContactsWithRoom/app/src/main/res/layout/screen_reg.xml" value="0.1921875" />
+        <entry key="..\:/Users/Mahmudov/Desktop/ContactsWithRoom/app/src/main/res/layout/screen_registration.xml" value="0.1921875" />
+        <entry key="..\:/Users/Mahmudov/Desktop/ContactsWithRoom/app/src/main/res/layout/screen_user.xml" value="0.1921875" />
+        <entry key="..\:/Users/Mahmudov/Desktop/ContactsWithRoom/app/src/main/res/layout/user_act.xml" value="0.1921875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
