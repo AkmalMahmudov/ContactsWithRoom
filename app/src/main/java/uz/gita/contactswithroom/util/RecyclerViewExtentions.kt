@@ -1,4 +1,4 @@
-package uz.gita.contactswithroom.extention
+package uz.gita.contactswithroom.util
 
 import android.view.View
 import androidx.recyclerview.widget.RecyclerView

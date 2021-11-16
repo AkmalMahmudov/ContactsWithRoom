@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ContactsWithRoom</string>
+    <string name="app_name">Contacts</string>
     <string name="adds_contact">adds_contact</string>
     <string name="_10">10</string>
     <string name="contact_name">Contact name</string>

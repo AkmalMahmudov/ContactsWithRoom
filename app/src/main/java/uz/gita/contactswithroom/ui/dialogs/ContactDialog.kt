@@ -4,7 +4,7 @@ import android.content.Context
 import android.view.LayoutInflater
 import androidx.appcompat.app.AlertDialog
 import uz.gita.contactswithroom.databinding.ItemDialogBinding
-import uz.gita.contactswithroom.extention.SingleBlock
+import uz.gita.contactswithroom.util.SingleBlock
 import uz.gita.contactswithroom.room.ContactData
 
 class ContactDialog(context: Context, actionName:String) : AlertDialog(context) {

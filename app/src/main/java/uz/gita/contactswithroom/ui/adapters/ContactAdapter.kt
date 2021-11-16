@@ -6,8 +6,8 @@ import androidx.appcompat.widget.PopupMenu
 import androidx.recyclerview.widget.RecyclerView
 import uz.gita.contactswithroom.R
 import uz.gita.contactswithroom.databinding.ItemTodoBinding
-import uz.gita.contactswithroom.extention.SingleBlock
-import uz.gita.contactswithroom.extention.bindItem
+import uz.gita.contactswithroom.util.SingleBlock
+import uz.gita.contactswithroom.util.bindItem
 import uz.gita.contactswithroom.room.ContactData
 
 class ContactAdapter : RecyclerView.Adapter<ContactAdapter.ViewHolder>() {
